@@ -5,7 +5,7 @@ One particularly interesting projection is onto the planes which maximize the ro
 
 ## Setup
 
-### Dependemcies
+### Dependencies
 The following packages are used to perform simulatiom, fitting, matrix and vector operations:
 - numpy >= 1.17
 - scipy >= 1.3
