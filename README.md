@@ -1,7 +1,7 @@
 # Dynafit - Modeling Linear Dynamical Systems 
 Dynafit provides methods to model **linear dynamic systems** with and without constraints and to project traces of such systems state-vectors onto planes that emphasize specific dynamic properties of interest.
 
-One particularly interesting projection is onto the planes which maximize the rotational components of the state-vector traces along time. The methods implemented here to perform the necessary calculations termed **jPCA** are drawn from the article [Neural population dynamics during reaching](https://www.nature.com/articles/nature11129), its supplementary materials and code examples. We'd like to encourage you to cite the original research article when you apply the jPCA code of this repository in your projects.
+One particularly interesting projection is onto the planes which maximize the rotational components of the state-vector traces along time. The methods implemented here to perform the necessary calculations termed **jPCA** are drawn from the article [Neural population dynamics during reaching](https://www.nature.com/articles/nature11129), its supplementary materials and [code examples](https://churchland.zuckermaninstitute.columbia.edu/content/code). We'd like to encourage you to cite the original research article when you apply the jPCA code of this repository in your projects.
 
 ## Setup
 
