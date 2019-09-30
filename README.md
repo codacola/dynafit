@@ -29,7 +29,7 @@ Basic functionality and sanity checks can be performed using the *unittest* fram
 ## Examples / Usage
 The basic usage can be seen in `examples.py`: 
 1. Toy data can be simulated using `dynafit.simulation.lds()` which takes a dynamics matrix and generates sample traces of the corresponding dynamical system. Make sure that the absolute values of your dynamics matrices are all small compared to the simulation time-step (default: 1).
-2. Use `dynafit.fit.fit_full` or `dynafit.fit.fit_skew()` to fit unconstrained and skew-symmetric models respectively
+2. Use `dynafit.fit.fit_full()` or `dynafit.fit.fit_skew()` to fit unconstrained and skew-symmetric models respectively
 3. Project time-traces onto vectors of maximal rotation (jPCA) by calling `dynafit.projection.project_rotmax()'
 
 ## Participation
